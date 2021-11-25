@@ -1,0 +1,30 @@
+body {
+	background: linear-gradient(#7d7dff, blue);
+}
+
+html {
+	min-height: 100vh;
+}
+
+a {
+	color: #dadada;
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+::-webkit-scrollbar-track {
+  background: radial-gradient(cyan, blue);
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(blue, cyan);
+	border-radius: 10px;
+}
+
+.txt {
+	color: #dadada;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
