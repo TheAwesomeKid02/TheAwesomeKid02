@@ -11,4 +11,4 @@ Discord: TheAwesomeKid02#7733
 
 Replit: [@TheAwesomeKid02](https://replit.com/@TheAwesomeKid02)
 
-<img src="person-imitation-small.jpg" />
+<img src="person-imitation-small.jpg" style="border-radius: 5px;" />
