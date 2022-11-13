@@ -7,7 +7,7 @@
 
 [Website](https://theawesomekid02.repl.co)
 
-Discord: TheAwesomeKid02#7733
+Discord: Pigon#7733
 
 Replit: [@TheAwesomeKid02](https://replit.com/@TheAwesomeKid02)
 
