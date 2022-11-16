@@ -15,12 +15,12 @@ a {
 }
 
 ::-webkit-scrollbar-track {
-  background: radial-gradient(cyan, blue);
-	border-radius: 10px;
+  background: linear-gradient(#7d7dff, blue);
+	border-radius: 0px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(blue, cyan);
+  background: linear-gradient(blue, #7d7dff);
 	border-radius: 10px;
 }
 

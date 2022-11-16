@@ -10,7 +10,7 @@ const material = new THREE.MeshBasicMaterial({color: 0x00ff00, wireframe: true})
 const cube = new THREE.Mesh(geometry, material);
 scene.add(cube);
 
-camera.position.z = 1000;
+camera.position.z = 1500;
 
 const animate = () => {
 	requestAnimationFrame(animate);
@@ -19,6 +19,6 @@ const animate = () => {
 	cube.rotation.y += 0.01;
 
 	renderer.render( scene, camera );
-};
+}
 
 animate();
