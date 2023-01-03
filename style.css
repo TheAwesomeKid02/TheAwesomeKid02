@@ -17,12 +17,12 @@ a {
 }
 
 ::-webkit-scrollbar-track {
-  background: linear-gradient(#7d7dff, blue);
+  background: linear-gradient(#7d7dff, #9fbdc1);
 	border-radius: 15px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(blue,#7d7dff);
+  background: linear-gradient(#9fbdc1,#7d7dff);
 	border-radius: 15px;
 }
 
