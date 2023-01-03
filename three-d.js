@@ -1,5 +1,5 @@
 const scene = new THREE.Scene();
-const camera = new THREE.PerspectiveCamera( 50, window.innerWidth / window.innerHeight, 10, 100000 );
+const camera = new THREE.PerspectiveCamera( 15, window.innerWidth / window.innerHeight, 10, 10000 );
 
 const renderer = new THREE.WebGLRenderer({ alpha: true });
 renderer.setSize( window.innerWidth, window.innerHeight );
@@ -10,13 +10,15 @@ const material = new THREE.MeshBasicMaterial({color: 0x00ff00, wireframe: true})
 const cube = new THREE.Mesh(geometry, material);
 scene.add(cube);
 
-camera.position.z = 1500;
+let z_position = 5000;
+
+camera.position.z = z_position;
 
 const animate = () => {
 	requestAnimationFrame(animate);
 
-	cube.rotation.x += 0.01;
-	cube.rotation.y += 0.01;
+	cube.rotation.x += z_position/150000;
+	cube.rotation.y += z_position/150000;
 
 	renderer.render( scene, camera );
 }
