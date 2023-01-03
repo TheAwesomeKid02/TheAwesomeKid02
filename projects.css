@@ -16,7 +16,7 @@ a {
 
 ::-webkit-scrollbar-track {
   background: linear-gradient(#7d7dff, blue);
-	border-radius: 0px;
+	border-radius: 15px;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -27,4 +27,31 @@ a {
 .txt {
 	color: #dadada;
 	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+img:hover {
+	box-shadow: 0 0 5px 5px rgba(0, 140, 186, 0.5);
+}
+
+img {
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	padding: 3px 3px;
+	transition-duration: .4s;
+}
+
+.new_pg_btn {
+	background: linear-gradient(blue, #7d7dff);
+	padding: 10px 10px;
+	border: 1px dashed blue;
+	border-radius: 10px;
+	transition-duration: .4s;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.new_pg_btn:hover {
+	padding: 15px 15px;
+	border: 1px dashed blue;
+	box-shadow: 13px 12px 16px 5px rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+	cursor: pointer;
 }
