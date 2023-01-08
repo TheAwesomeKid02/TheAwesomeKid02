@@ -3,7 +3,7 @@
 - I would like to colab for HTML, CSS, and JavaScript
 - Main programming languages are HTML, CSS, and JavaScript
 - Struggling with Node.js and three.js
-- Pronouns: he/they
+- Pronouns: he/him
 
 [Website](https://theawesomekid02.repl.co)
 
