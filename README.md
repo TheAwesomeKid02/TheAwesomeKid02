@@ -5,7 +5,7 @@
 - Struggling with Node.js and three.js
 - Pronouns: he/him
 
-[Website](https://theawesomekid02.repl.co)
+[Website](https://theawesomekid.is-a.dev)
 
 Discord: theawesomekid
 
