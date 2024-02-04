@@ -4,7 +4,7 @@
 - Main programming languages are HTML, CSS, and JavaScript
 - Struggling with Node.js and three.js
 - Pronouns: he/him
-- Check out my "Chess Analysis" repository. It is one of my lastest python projects
+- Check out my "Chess Analysis" repository. It is one of my lastest python projects.
 
 Discord: theawesomekid (However I might not accept any friend requests)
 
