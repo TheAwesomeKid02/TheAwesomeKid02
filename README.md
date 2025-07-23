@@ -15,4 +15,3 @@ Replit: [@TheAwesomeKid02](https://replit.com/@TheAwesomeKid02)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheAwesomeKid02&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAwesomeKid02&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAwesomeKid02&theme=github_dark)<br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheAwesomeKid02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
