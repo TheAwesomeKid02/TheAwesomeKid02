@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- I would like to colab for HTML, CSS, and JavaScript
-- Main programming languages are HTML, CSS, and JavaScript
-- Struggling with Node.js and three.js
-- Pronouns: he/him
+Your average web developer.
 
-Discord: theawesomekid (However I might not accept any friend requests)
+- Proficiency in: HTML, CSS, Javascript
+- Focusing on node.js projects
+- Experience with Python
 
 Replit: [@TheAwesomeKid02](https://replit.com/@TheAwesomeKid02)
 
